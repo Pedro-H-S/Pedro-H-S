@@ -1,7 +1,7 @@
 ## Olá! eu sou o Pedro Henrique
 
 - 👨🏽‍💻 Estou procurando o primeiro emprego como desenvolvedor
-- 🌱 Cursando Analíse e Desenvolvimento de Sistemas
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 📚 Estudando Python
 - 📫 Contate-me no email: pedro-henrique11211@hotmail.com
 
