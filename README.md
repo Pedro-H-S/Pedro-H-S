@@ -4,7 +4,7 @@
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 📚 Estudando Python e JavaScript
 - 📚 Outros projetos: https://lnkd.in/dA_5Fkqm
-                      https://lnkd.in/dKpWuVBq
+                     / https://lnkd.in/dKpWuVBq
 
 <div align="center">
   <a href="https://github.com/Pedro-H-S">
