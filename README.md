@@ -1,10 +1,7 @@
 ## Olá! eu sou o Pedro Henrique
 
-- 👨🏽‍💻 Estou procurando o primeiro emprego como desenvolvedor
+- 👨🏽‍💻 Estou procurando a primeira oportunidade como desenvolvedor
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 📚 Estudando Python e JavaScript
-- 📚 Outros projetos: https://lnkd.in/dA_5Fkqm
-                     / https://lnkd.in/dKpWuVBq
 
 <div align="center">
   <a href="https://github.com/Pedro-H-S">
